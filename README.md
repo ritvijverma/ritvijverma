@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mysteriousrv" alt="ritvijverma" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, Nodejs,DSA**
+- 🌱 I’m currently learning **React.js, Nodejs,**
 
 - 👯 I’m looking to collaborate on **new project**
 
