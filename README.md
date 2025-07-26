@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Face Recognition Project<br>🌱 I’m currently learning Node.js<br>💬 Ask me about HTML, CSS, TAILWIND CSS, SCSS, JAVASCRIPT, REACT.JS, NODE.JS <br>⚡ Fun fact.............🚀 Nodemon is my therapist. It listens and restarts every time I break.<br>
+🔭 I’m currently working on Facial Expression Detection JS Project<br>🌱 I’m currently learning Node.js<br>💬 Ask me about HTML, CSS, TAILWIND CSS, SCSS, JAVASCRIPT, REACT.JS, NODE.JS <br>⚡ Fun fact.............🚀 Nodemon is my therapist. It listens and restarts every time I break.<br>
 
 
 ## 🌐 Socials:
