@@ -2,8 +2,8 @@
   <img src="https://github.com/mysteriousrv/mysteriousrv/blob/main/image.png?raw=true" alt="Cover Image" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Ritvij Verma</h1>
-<h3 align="center">Frontend Developer | MERN Stack Learner | React.js </h3>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Frontend Developer | MERN Stack Learner  </h3>
+<h3 align="center">A passionate frontend developer.</h3>
 
 # 💫 About Me:
 🔭 I’m currently working as a Software Engineer Trainee<br>🌱 I’m focused on becoming a Full-Stack Developer (MERN)<br>💬 Ask me about HTML, CSS, TAILWIND CSS, SCSS, MATERIAL UI,JAVASCRIPT, REACT.JS, NODE.JS, EXPRESSJS, MONGODB.<br>⚡ Fun fact.............🚀 Nodemon is my therapist. It listens and restarts every time I break.
