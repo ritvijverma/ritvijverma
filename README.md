@@ -8,6 +8,13 @@
 # 💫 About Me:
 🔭 I’m currently working as a Software Engineer Trainee<br>🌱 I’m focused on becoming a Full-Stack Developer (MERN)<br>💬 Ask me about HTML, CSS, TAILWIND CSS, SCSS, MATERIAL UI,JAVASCRIPT, REACT.JS, NODE.JS, EXPRESSJS, MONGODB.<br>⚡ Fun fact.............🚀 Nodemon is my therapist. It listens and restarts every time I break.
 
+<h3 align="center">
+  👀 Profile Views
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ritvijverma&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritvij.verma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritvij-verma) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@VermaRitvij) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritvijverma18@gmail.com) 
